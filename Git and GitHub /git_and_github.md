@@ -9,7 +9,8 @@ Basic git repository creation and push:
 
 Command for further push after repo creation:
 1. **```git add .```**
-2. 
+2. **```git commit -m "your message"```**
+3. **```git push```**
 
 &nbsp;
 

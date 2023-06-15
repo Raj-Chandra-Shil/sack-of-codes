@@ -1,9 +1,15 @@
 > # **Git and Github**
+
 Basic git repository creation and push:
 
 1. To initialize a folder  as github repo: **```git init```**
 2. To add everything of a repo: **```git add .```**
 3. To keep a message about changes, update or anything else made in your codebase: **```git commit -m "your comment here"```**
+4. **```git branch -M main```**
+
+Command for further push after repo creation:
+1. **```git add .```**
+2. 
 
 &nbsp;
 

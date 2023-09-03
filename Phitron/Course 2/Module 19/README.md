@@ -17,5 +17,8 @@
 
 Steps
 
-1. Starting from the source node pick up the minimum cost edge connected to the source node. 
-2. 
+1. Starting from the source node pick up the minimum cost edge connected to the source node.  
+
+&nbsp;
+
+> # **```Kruskal's Algorithm```**

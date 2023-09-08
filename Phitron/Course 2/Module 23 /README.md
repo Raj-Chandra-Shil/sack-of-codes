@@ -1,0 +1,1 @@
+**Subset**: There are total 2^n numbers of total subset of a set.
